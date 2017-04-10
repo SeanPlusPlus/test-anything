@@ -1,0 +1,11 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:SeanPlusPlus/test-anything.git",
+  "author": "Sean <seanmichaelstephenson@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "tape": "^4.6.3"
+  }
+}
